@@ -1,5 +1,5 @@
 # Live version
-Available at GitHub pages:
+Available at GitHub pages: https://faridgasimov93.github.io/ProjectHouses/
 # Used technologies:
 - HTML5,
 - SCSS,
