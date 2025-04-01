@@ -1,0 +1,26 @@
+$neumann: td-neumann, sans-serif;
+$mus1: MuseoSansCyrl100, sans-serif;
+$mus3: MuseoSansCyrl300, sans-serif;
+$mus5: MuseoSansCyrl500, sans-serif;
+$mus7: MuseoSansCyrl700, sans-serif;
+
+@font-face {
+  font-family: td-neumann;
+  src: url("../src/fonts/td-neumann.otf");
+}
+@font-face {
+  font-family: MuseoSansCyrl100;
+  src: url("../src/fonts/MuseoSansCyrl100.ttf");
+}
+@font-face {
+  font-family: MuseoSansCyrl300;
+  src: url("../src/fonts/MuseoSansCyrl300.ttf");
+}
+@font-face {
+  font-family: MuseoSansCyrl500;
+  src: url("../src/fonts/MuseoSansCyrl500.ttf");
+}
+@font-face {
+  font-family: MuseoSansCyrl700;
+  src: url("../src/fonts/MuseoSansCyrl700.ttf");
+}
